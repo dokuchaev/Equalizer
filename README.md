@@ -1,3 +1,3 @@
 # Equalizer-css
 
-"Equalizer" on css. Hover effect.
+Css "Equalizer". Hover effect.
